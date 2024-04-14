@@ -7,7 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 /data/
-src/.ipynb_checkpoints/
 .idea/
 .idea/IS5126_Project.iml
 .idea/misc.xml
