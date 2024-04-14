@@ -6,3 +6,11 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/data/
+src/.ipynb_checkpoints/
+.idea/
+.idea/IS5126_Project.iml
+.idea/misc.xml
+src/data/
+src/model_tuning/
+src/other_notebook_changes/
