@@ -64,7 +64,7 @@ The dataset is sourced from Kaggle through Lending Club and comprises 396,030 re
 5. **Artificial Neural Network (ANN)**: Structured as a sequential model with ReLU activation and dropout layers.
 
 ### Results
-- Model performance metrics and visualizations can be found in the `results/` directory.
+The best-performing model was the optimized XGBoost model. For fully paid loans, the model achieved a precision of 0.94, a recall of 0.80, and an F1-score of 0.87. For charged-off loans, the model achieved a precision of 0.50, a recall of 0.80, and an F1-score of 0.62. The Precision-Recall Curve (PRC) for the model was 0.78, and the Receiver Operating Characteristic (ROC) curve area was 0.91. These results indicate that the model is highly effective in predicting loan defaults, with strong performance metrics across various evaluation criteria.
 
 ### Contributors
 - Chook Win Yan
